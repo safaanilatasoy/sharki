@@ -1,0 +1,31 @@
+/* add css module styles here (optional) */
+
+
+button._1Pz2d{
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;    
+}
+button._3WL0S {
+  border: 0px;
+  background: #3498db;
+  color: #ffffff;
+  
+}
+button._18OwI {
+  border: 2px solid rgb(157, 157, 163);
+}
+button._2zkcJ {
+  border: 2px dotted rgb(157, 157, 163);
+}
+button._RNxYy {
+  border: 0px rgb(157, 157, 163);
+}
+button._1YZI5 {
+  border: 0px rgb(157, 157, 163);
+  color: blue;
+}
+button:hover {
+  opacity: 0.9;
+}
